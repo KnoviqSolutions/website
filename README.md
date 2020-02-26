@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
   <title>Knoviq Solutions</title>
+</head>    
 
 
 ## Knoviq Solutions
